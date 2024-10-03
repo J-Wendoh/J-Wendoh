@@ -1,26 +1,6 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on full-stack web development projects that leverage my skills in Python, Flask, and React, with a focus on creating innovative solutions for education and healthcare.<br><br>🌱 I’m currently learning machine learning through an intensive program at DataCamp, as well as exploring cloud computing technologies.<br><br>👯 I’m looking to collaborate on projects that aim to make a positive impact in various sectors like education and healthcare, particularly those that involve machine learning and data-driven solutions.<br><br>🤔 I’m looking for help with advanced machine learning techniques and any resources or mentorship opportunities in this field.<br><br>💬 Ask me about web development, machine learning, or my experiences in the Moringa program.<br><br>📫 How to reach me: Email me at joannewendoh@gmail.com or connect with me on LinkedIn or GitHub.<br><br>😄 Pronouns: She/Her<br><br>⚡ Fun fact: I have a passion for combining creativity with technology to solve real-world problems!
 
-<!--
-**J-Wendoh/J-Wendoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on full-stack web development projects that leverage my skills in Python, Flask, and React, with a focus on creating innovative solutions for education and healthcare.
-
-🌱 I’m currently learning machine learning through an intensive program at DataCamp, as well as exploring cloud computing technologies.
-
-👯 I’m looking to collaborate on projects that aim to make a positive impact in various sectors like education and healthcare, particularly those that involve machine learning and data-driven solutions.
-
-🤔 I’m looking for help with advanced machine learning techniques and any resources or mentorship opportunities in this field.
-
-💬 Ask me about web development, machine learning, or my experiences in the Moringa program.
-
-📫 How to reach me: Email me at joannewendoh@gmail.com or connect with me on LinkedIn or GitHub.
-
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I have a passion for combining creativity with technology to solve real-world problems!
--->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wendoh-joanne/) 
@@ -38,4 +18,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=J-Wendoh&icon=4&color=5)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
