@@ -19,8 +19,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendoh-joanne/)  
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
@@ -40,7 +38,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)  
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-%234F81BD.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-%234F81BD.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=J-Wendoh&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
