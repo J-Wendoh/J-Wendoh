@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=J-Wendoh&label=Profile%20views&color=0e75b6&style=flat" alt="J-Wendoh" /> </p>
 <p align="left"> <a href="https://twitter.com/J-Wendoh" target="blank"><img src="https://img.shields.io/twitter/follow/J-Wendoh?logo=twitter&style=for-the-badge" alt="J-Wendoh" /></a> </p>
 
-💬 Ask me about full-stack development, machine learning, blockchain, or my experiences with the Moringa program
+💬 Ask me about full-stack development,blockchain or Artificial Intelligence
 
 👯‍♀️ I enjoy solving problems through full-stack web development, exploring emerging technologies, and building decentralized applications (dApps) using blockchain.
 
