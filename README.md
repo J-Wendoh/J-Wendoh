@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joanne Wendoh</h1>
 <h3 align="center">A passionate full-stack developer, blockchain developer, and AI enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="400" src="https://app.lottiefiles.com/share/2fb534b7-df72-47ac-9b0f-e65cc41dac94">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=J-Wendoh&label=Profile%20views&color=0e75b6&style=flat" alt="J-Wendoh" /> </p>
 <p align="left"> <a href="https://twitter.com/J-Wendoh" target="blank"><img src="https://img.shields.io/twitter/follow/J-Wendoh?logo=twitter&style=for-the-badge" alt="J-Wendoh" /></a> </p>
