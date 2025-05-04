@@ -1,22 +1,26 @@
 <h1 align="center">Hi 👋, I'm Joanne Wendoh</h1>
-<h3 align="center">A passionate full-stack developer, blockchain developer, and AI enthusiast</h3>
+<h3 align="center">A passionate full-stack developer, blockchain innovator, and AI enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="coding" width="400" src="https://your-uploaded-gif-link.gif">
 
-<p align="left"> <img src="https://lottiefiles.com/free-animation/girl-chatting-with-online-friends-ddjSyqsyla" alt="J-Wendoh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-Wendoh&label=Profile%20views&color=0e75b6&style=flat" alt="J-Wendoh" /> </p>
 <p align="left"> <a href="https://twitter.com/J-Wendoh" target="blank"><img src="https://img.shields.io/twitter/follow/J-Wendoh?logo=twitter&style=for-the-badge" alt="J-Wendoh" /></a> </p>
 
-💬 Ask me about full-stack development, blockchain, Artificial Intelligence, or decentralized autonomous organizations (DAOs).
+💬 Ask me about full-stack development, blockchain, or artificial intelligence
 
-👯‍♀️ I enjoy solving complex problems through full-stack web development, exploring emerging technologies, and building decentralized applications (dApps) using blockchain.
+👯‍♀️ I enjoy solving problems through full-stack web development, exploring emerging technologies, and building decentralized applications (dApps) using blockchain.
 
-🌱 I’m currently enhancing my skills in blockchain development, AI, and decentralized ecosystems. I'm especially focused on building platforms that empower developers to create Web3 applications and intelligent systems with ease.
+🌱 I’m currently learning and innovating in the AI and blockchain ecosystem, and exploring how these can power decentralized and intelligent platforms.
 
-🚀 I’m the founder of **Gain Chain**, a next-gen blockchain AI platform that provides developers with tools and infrastructure to build, deploy, and scale intelligent decentralized applications. It simplifies frontend integration with blockchain protocols, making smart contract interaction seamless and developer-friendly.
-
-🌍 I also co-founded **BuildaDAO**, a community-driven initiative focused on empowering Africa through the intersection of **blockchain and AI**. We’re building decentralized tools, sharing knowledge, and uniting African innovators to lead the next tech revolution.
+🌟 I aim to contribute to impactful projects that drive innovation in healthcare, education, and decentralized ecosystems.
 
 🎨 I love designing beautiful and functional user interfaces for both web and mobile apps.
+
+🔗 I'm building **Gain Chain**, a blockchain AI platform that empowers developers to create decentralized applications and frontends using modern tooling and smart integrations.
+
+🌍 I'm also leading **BuildaDAO**, a community-driven initiative bringing blockchain and AI innovation to Africa through collaboration, open-source development, and educational empowerment.
+
+---
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
@@ -39,9 +43,10 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.internetcomputer.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Internet_Computer_Logo.svg" alt="ICP" width="40" height="40"/></a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
 </p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Wendoh&show_icons=true&locale=en&layout=compact" alt="J-Wendoh" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J-Wendoh&show_icons=true&locale=en" alt="J-Wendoh" /></p> 
