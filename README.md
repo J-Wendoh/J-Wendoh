@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-Wendoh&label=Profile%20views&color=0e75b6&style=flat" alt="J-Wendoh" /> </p>
+<p align="left"> <img src="https://lottiefiles.com/free-animation/girl-chatting-with-online-friends-ddjSyqsyla" alt="J-Wendoh" /> </p>
 <p align="left"> <a href="https://twitter.com/J-Wendoh" target="blank"><img src="https://img.shields.io/twitter/follow/J-Wendoh?logo=twitter&style=for-the-badge" alt="J-Wendoh" /></a> </p>
 
 💬 Ask me about full-stack development, blockchain, Artificial Intelligence, or decentralized autonomous organizations (DAOs).
