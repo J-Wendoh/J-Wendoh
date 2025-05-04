@@ -1,55 +1,49 @@
 <h1 align="center">Hi 👋, I'm Joanne Wendoh</h1>
+<h3 align="center">A passionate full-stack developer, blockchain developer, and AI enthusiast</h3>
 
-<h3 align="center">A passionate full-stack developer, blockchain innovator, and AI enthusiast</h3>
+<img align="right" alt="coding" width="400" src="[https://lottiefiles.com/free-animation/girl-chatting-with-online-friends-ddjSyqsyla](https://lottiefiles.com/free-animation/girl-chatting-with-online-friends-ddjSyqsyla)
+">
 
-<img align="right" alt="coding" width="400" src="https://lottiefiles.com/cdn-cgi/image/width=400,q=95,f=auto/https://assets4.lottiefiles.com/packages/lf20_ddjSyqsyla.json" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=J-Wendoh&label=Profile%20views&color=0e75b6&style=flat" alt="J-Wendoh" /> </p>
+<p align="left"> <a href="https://twitter.com/J-Wendoh" target="blank"><img src="https://img.shields.io/twitter/follow/J-Wendoh?logo=twitter&style=for-the-badge" alt="J-Wendoh" /></a> </p>
 
----
+💬 Ask me about full-stack development, blockchain, Artificial Intelligence, or decentralized autonomous organizations (DAOs).
 
-### 👩🏽‍💻 About Me
+👯‍♀️ I enjoy solving complex problems through full-stack web development, exploring emerging technologies, and building decentralized applications (dApps) using blockchain.
 
-I'm passionate about solving real-world problems through full-stack web development, exploring emerging technologies, and building decentralized applications (dApps) using blockchain.
+🌱 I’m currently enhancing my skills in blockchain development, AI, and decentralized ecosystems. I'm especially focused on building platforms that empower developers to create Web3 applications and intelligent systems with ease.
 
-Currently, I'm deeply invested in learning and innovating in the AI and blockchain ecosystem, and exploring how these can power next-generation intelligent platforms.
+🚀 I’m the founder of **Gain Chain**, a next-gen blockchain AI platform that provides developers with tools and infrastructure to build, deploy, and scale intelligent decentralized applications. It simplifies frontend integration with blockchain protocols, making smart contract interaction seamless and developer-friendly.
 
-I aspire to contribute to impactful projects that drive innovation in healthcare, education, and decentralized ecosystems.
+🌍 I also co-founded **BuildaDAO**, a community-driven initiative focused on empowering Africa through the intersection of **blockchain and AI**. We’re building decentralized tools, sharing knowledge, and uniting African innovators to lead the next tech revolution.
 
----
+🎨 I love designing beautiful and functional user interfaces for both web and mobile apps.
 
-### 🧰 Tech Stack
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> 
+  <a href="https://twitter.com/J-Wendoh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="J-Wendoh" height="30" width="40" />
+  </a> 
+  <a href="https://www.linkedin.com/in/wendoh-joanne/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joanne Wendoh" height="30" width="40" />
+  </a> 
+  <a href="https://github.com/J-Wendoh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="J-Wendoh" height="30" width="40" />
+  </a> 
+</p>
 
-- **Frontend:** React, JavaScript, Tailwind CSS, HTML/CSS
-- **Backend:** Flask, Python, Node.js
-- **Blockchain:** ICP, Motoko, Rust, Solidity
-- **Databases:** PostgreSQL, Firebase
-- **Tools:** GitHub, Figma, Docker, Postman
+<h3 align="left">Languages and Tools:</h3> 
+<p align="left"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.internetcomputer.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Internet_Computer_Logo.svg" alt="ICP" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+</p>
 
----
-
-### 🌟 Projects
-
-#### 🔗 Gain Chain  
-*A blockchain AI platform that empowers developers to create decentralized applications and tools with modern frontend interfaces, seamless integrations, and smart contracts.*
-
-Gain Chain is built with the vision of democratizing access to blockchain development by merging artificial intelligence and decentralized tooling. The platform focuses on delivering production-ready solutions for real-world use cases.
-
-#### 👥 BuildaDAO  
-An initiative of the Gain Chain community to bring blockchain and AI innovation to Africa. BuildaDAO fosters decentralized collaboration, open-source contributions, and talent acceleration across the continent.
-
----
-
-### 📫 Let’s Connect
-
-- Email: joannewendoh@gmail.com  
-- Portfolio: [mswendoh.world](https://mswendoh.world)  
-- LinkedIn: [Joanne Wendoh](https://www.linkedin.com/in/wendoh-joanne/)  
-- GitHub: [J-Wendoh](https://github.com/J-Wendoh)
-
----
-
-### ✨ Fun Fact
-
-> I love creating beautiful, functional user interfaces and I'm constantly exploring how we can use blockchain and AI to build ethical, scalable solutions for the future.
-
----
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=J-Wendoh&show_icons=true&locale=en&layout=compact" alt="J-Wendoh" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=J-Wendoh&show_icons=true&locale=en" alt="J-Wendoh" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=J-Wendoh&" alt="J-Wendoh" /></p>
